@@ -1782,6 +1782,7 @@ be
 * [DockerDL](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 * [Aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct enables you to easily define, run, and manage AI & ML tasks on any cloud infrastructure.
 * [Ambrosia](https://github.com/reactorsh/ambrosia) - Ambrosia helps you clean up your LLM datasets using _other_ LLMs.
+* [Tabula](https://www.tabula.io/product/for-analytics-teams) - No-code data preparation and automation tool built natively for data warehouses.
 
 <a name="books"></a>
 ## Books
